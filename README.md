@@ -1,3 +1,4 @@
+crop prediction system using ai ml
 <img width="1917" height="898" alt="image" src="https://github.com/user-attachments/assets/d4b03887-ec60-4ddc-b885-154531d80f76" />
  Crop prediction is a critical task for farmers and decision-makers in the agricultural
  sector. The ability to accurately forecast suitable crops for cultivation based on
